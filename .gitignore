@@ -11,3 +11,4 @@ wheels/
 .env
 *.mp3
 *.mp4
+*.txt
